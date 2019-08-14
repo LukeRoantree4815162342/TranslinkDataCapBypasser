@@ -1,6 +1,18 @@
 # TranslinkDataCapBypasser
 Short Bash &amp; Python scripts which, bypass the data cap on Translink NI services. (Linux only for now)
 
+### Setup:
+---
+
+* Copy the shell script to your .bashrc as described in the file
+
+* Put the python script somewhere sensible and change the path to it in the shell script (preferable but should find it anyway)
+
+* Install any of the requrements you don't already have
+
+---
+---
+
 ### Requirements:
 ---
 * sudo / root access
